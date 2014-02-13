@@ -5,4 +5,4 @@ stipple
 
 stipple creates a similar representation of an image in Matlab using a matrix of evenly spaced rectangles with varying dimensions. Darker regions are represented by a region of larger rectangles; lighter regions are represented by a region of smaller rectangles.
 
-![original image][https://github.com/cswagner/stipple/blob/develop/images/jlaw.jpg] --> ![stippled image][https://github.com/cswagner/stipple/blob/develop/output/jlaw-stipple.jpg]
+![original image](https://github.com/cswagner/stipple/blob/develop/images/jlaw.jpg "Original") --> ![stippled image](https://github.com/cswagner/stipple/blob/develop/output/jlaw-stipple.jpg "After stipple")
